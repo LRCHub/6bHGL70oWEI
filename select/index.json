@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Catalonia",
+  "base_artist": "Vance Joy",
+  "createdAt": "2026-02-06T06:26:44.629167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talco Uno (Prefuse 73 Unplugged in Catalonia remix)",
+      "artist": "Jollymusic / Erlend Øye",
+      "has_synced": false,
+      "path": "select/01_Talco_Uno_(Prefuse_73_Unplugged_in_Catalonia_remix)_Jollymusic___Erlend_Øye.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Catalonia",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/02_Catalonia_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ghosts of Catalonia",
+      "artist": "Misery Index",
+      "has_synced": true,
+      "path": "select/03_Ghosts_of_Catalonia_Misery_Index.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catalonia (Live at Sydney Opera House)",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/04_Catalonia_(Live_at_Sydney_Opera_House)_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catalonia - Live at Sydney Opera House",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/05_Catalonia_-_Live_at_Sydney_Opera_House_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Postcards from Catalonia",
+      "artist": "David Keenan",
+      "has_synced": true,
+      "path": "select/06_Postcards_from_Catalonia_David_Keenan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Welcome to Catalonia",
+      "artist": "Kayo Malayo",
+      "has_synced": true,
+      "path": "select/07_Welcome_to_Catalonia_Kayo_Malayo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Dama D'Aragó: Catalonia",
+      "artist": "L'Arpeggiata, Christina Pluhar",
+      "has_synced": true,
+      "path": "select/08_La_Dama_D'Aragó__Catalonia_L'Arpeggiata,_Christina_Pluhar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catalonia",
+      "artist": "Eebz",
+      "has_synced": true,
+      "path": "select/09_Catalonia_Eebz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catalonia",
+      "artist": "Kid Smoko",
+      "has_synced": false,
+      "path": "select/10_Catalonia_Kid_Smoko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghosts Of Catalonia",
+      "artist": "Misery Index",
+      "has_synced": true,
+      "path": "select/11_Ghosts_Of_Catalonia_Misery_Index.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Catalonia",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/pl_01_Catalonia_Vance_Joy.txt"
+    }
+  ]
+}
